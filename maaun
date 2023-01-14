@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<head>
+    <title>Maaun Bot</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="logo">
+            <img src="maaun.jpg" alt="maaun"> 
+        <div class="title">
+            <P>Sign In TO Maaun Bot </P>
+            <div class="form">
+                <div class="input_field">
+                    <label>user name or email address</label>
+                    <input type="text" class="input">
+                    <div class="input_field">
+                        <label>password</label>
+                        <input type="password" class="input">
+
+                    <div class="btn">
+                        <input type="submit" value="sign in" class="sign_btn">
+                    </div>
+                    </div>
+                </div>
+                <div class="create_act">
+                    <p>New To Maaun Bot? <a href="#">Create a account.</a></p>
+                </div>
+            </div>
+            <div class="footer">
+                <ul>
+                    <li><a href="#">Terms</a></li>
+                    <li><a href="#">Privacy</a></li>
+                    <li><a href="#">Security</a></li>
+                    <li><a href="#">About Developer</a></li>
+                </ul>
+            </div>
+        </div>
+        </div>
+    </div>
+</body>
